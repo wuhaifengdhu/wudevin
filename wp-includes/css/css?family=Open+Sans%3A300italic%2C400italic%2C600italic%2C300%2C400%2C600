@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://wudevin.com/wordpress/wp-includes/fonts/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://wudevin.com/wordpress/wp-includes/fonts/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://wudevin.com/wordpress/wp-includes/fonts/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url(http://wudevin.com/wordpress/wp-includes/fonts/PRmiXeptR36kaC0GEAetxrfB31yxOzP-czbf6AAKCVo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://wudevin.com/wordpress/wp-includes/fonts/xjAJXh38I15wypJXxuGMBp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans Semibold Italic'), local('OpenSans-SemiboldItalic'), url(http://wudevin.com/wordpress/wp-includes/fonts/PRmiXeptR36kaC0GEAetxi8cqLH4MEiSE0ROcU-qHOA.ttf) format('truetype');
+}

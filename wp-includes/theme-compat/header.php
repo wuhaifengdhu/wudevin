@@ -26,7 +26,7 @@ _deprecated_file(
 
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
-
+<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico" />
 <?php if ( file_exists( get_stylesheet_directory() . '/images/kubrickbgwide.jpg' ) ) { ?>
 <style type="text/css" media="screen">
 
